@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8cff525-ecc2-4cd8-95a5-a12087867927" name="Changes" comment="&quot;asdasd&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06895b2dfff011115a8eded7e3fad29788965566" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/9/29923db4d4ea10759881960170373447319a93ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/302be76b17ec3188653bea112207e65dde129e59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c975582791da6f060261188096d6aad85db6e09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7030d0b2f71b999ff89a343de08c414af32fc93a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc22283f36fa2c76d4984ebb318301c25a3f1ba4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e92338c6e49ff34f9022980cc89bbebd60974bad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$/Angular-Ecommerce" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BCTFDXAXfOzPws1f703lTmO9mh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/smilynik/ecommerce-project/01-template-integration/03-frontend/angular-ecommerce&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/smilynik/ecommerce-project/01-template-integration/03-frontend/angular-ecommerce/node_modules/typescript/lib&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;/Users/nikola_smilyanski/15-shopping-cart-details-increment-item-quantity/03-frontend/angular-ecommerce/src/app/components/product-list/product-list.component.ts&quot;,
+    &quot;two.files.diff.last.used.folder&quot;: &quot;/Users/nikola_smilyanski/Downloads/21-checkout-form-validation-customer/03-frontend/angular-ecommerce/src/app/components/checkout&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/components/product-list" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images/products" />
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+      <recent name="$PROJECT_DIR$/src/app/components/product-list" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8cff525-ecc2-4cd8-95a5-a12087867927" name="Changes" comment="" />
+      <created>1656408961924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656408961924</updated>
+      <workItem from="1656408965126" duration="950000" />
+      <workItem from="1656410369805" duration="6118000" />
+      <workItem from="1656514883040" duration="567000" />
+      <workItem from="1656572429774" duration="2964000" />
+      <workItem from="1656589198317" duration="4748000" />
+      <workItem from="1656658080181" duration="2923000" />
+      <workItem from="1656662109985" duration="1454000" />
+      <workItem from="1656663898626" duration="3881000" />
+      <workItem from="1656675653493" duration="961000" />
+      <workItem from="1656925306888" duration="3428000" />
+      <workItem from="1656932011595" duration="4271000" />
+      <workItem from="1657174420187" duration="5203000" />
+      <workItem from="1657181191702" duration="6155000" />
+      <workItem from="1657261548528" duration="3531000" />
+      <workItem from="1657266277470" duration="5280000" />
+      <workItem from="1658846891861" duration="281000" />
+      <workItem from="1658847292818" duration="680000" />
+      <workItem from="1658988955084" duration="2101000" />
+      <workItem from="1658991086774" duration="1966000" />
+      <workItem from="1658995952249" duration="4366000" />
+      <workItem from="1659001695449" duration="6000" />
+      <workItem from="1659011488175" duration="4015000" />
+      <workItem from="1659075153910" duration="891000" />
+      <workItem from="1659093344529" duration="3813000" />
+      <workItem from="1659110406146" duration="1103000" />
+      <workItem from="1660307827299" duration="538000" />
+      <workItem from="1660308410786" duration="4380000" />
+      <workItem from="1660382272292" duration="2695000" />
+      <workItem from="1661173162776" duration="1068000" />
+      <workItem from="1661178443464" duration="146000" />
+      <workItem from="1661245320775" duration="842000" />
+      <workItem from="1661279513222" duration="1164000" />
+      <workItem from="1661280988372" duration="1602000" />
+      <workItem from="1661337735216" duration="6633000" />
+      <workItem from="1661347018273" duration="373000" />
+      <workItem from="1661451786777" duration="1951000" />
+      <workItem from="1661496084324" duration="1896000" />
+      <workItem from="1661524548664" duration="1384000" />
+      <workItem from="1661539046780" duration="159000" />
+      <workItem from="1661539275566" duration="1917000" />
+      <workItem from="1661798763748" duration="333000" />
+      <workItem from="1661877216144" duration="151000" />
+      <workItem from="1662402500894" duration="1540000" />
+      <workItem from="1662472754919" duration="2124000" />
+      <workItem from="1662488698137" duration="2147000" />
+      <workItem from="1662575986198" duration="1692000" />
+      <workItem from="1662712895342" duration="732000" />
+      <workItem from="1662713715093" duration="3804000" />
+      <workItem from="1663226037358" duration="609000" />
+      <workItem from="1663256320068" duration="566000" />
+      <workItem from="1663310613487" duration="3140000" />
+      <workItem from="1663333184764" duration="2605000" />
+      <workItem from="1663769546966" duration="1863000" />
+      <workItem from="1668513341046" duration="1252000" />
+      <workItem from="1673014587597" duration="1163000" />
+      <workItem from="1678454880190" duration="305000" />
+      <workItem from="1678457224342" duration="951000" />
+      <workItem from="1678458709466" duration="47000" />
+      <workItem from="1678458848567" duration="656000" />
+      <workItem from="1678551317804" duration="1301000" />
+      <workItem from="1678553981698" duration="605000" />
+      <workItem from="1678608682853" duration="1526000" />
+      <workItem from="1678786847005" duration="1095000" />
+      <workItem from="1678788414391" duration="9000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;asdasd&quot;">
+      <created>1678552449765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678552449765</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;asdasd&quot;">
+      <created>1678554094708</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678554094708</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;asdasd&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;asdasd&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app/components/search/search.component.ts</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
